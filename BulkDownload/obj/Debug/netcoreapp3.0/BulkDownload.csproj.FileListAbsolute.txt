@@ -1,0 +1,11 @@
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\bin\Debug\netcoreapp3.0\BulkDownload.exe
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\bin\Debug\netcoreapp3.0\BulkDownload.deps.json
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\bin\Debug\netcoreapp3.0\BulkDownload.runtimeconfig.json
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\bin\Debug\netcoreapp3.0\BulkDownload.runtimeconfig.dev.json
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\bin\Debug\netcoreapp3.0\BulkDownload.dll
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\bin\Debug\netcoreapp3.0\BulkDownload.pdb
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\obj\Debug\netcoreapp3.0\BulkDownload.csprojAssemblyReference.cache
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\obj\Debug\netcoreapp3.0\BulkDownload.AssemblyInfoInputs.cache
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\obj\Debug\netcoreapp3.0\BulkDownload.AssemblyInfo.cs
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\obj\Debug\netcoreapp3.0\BulkDownload.dll
+C:\Users\A674684\source\repos\Daneshwaran\SharePoint-Auth\BulkDownload\obj\Debug\netcoreapp3.0\BulkDownload.pdb
